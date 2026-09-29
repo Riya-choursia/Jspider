@@ -7,6 +7,7 @@ public class Demo {
         int result = add.addition(10, 30);
 
         System.out.println(result);
+
     }
 
     public static class Add {
