@@ -9,6 +9,7 @@ public class Demo {
     public static void main(String[] args){
         Demo d=new Demo();
         int result=d.add(2,3);
+        //add the result
         System.out.println(result);
     }
 }
