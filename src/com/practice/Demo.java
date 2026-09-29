@@ -7,7 +7,7 @@ public class Demo {
         int result = add.addition(10, 30);
 
         System.out.println(result);
-        System.out.println("Added new line");
+        System.out.println("Added/removed new line");
 
 
     }

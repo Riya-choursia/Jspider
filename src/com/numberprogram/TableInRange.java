@@ -12,5 +12,6 @@ public class TableInRange {
         for(int i=1;i<=range;i++){
             System.out.println(num + "*" + i +"=" + (num*i));
         }
+
     }
 }
